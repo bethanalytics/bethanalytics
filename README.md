@@ -40,4 +40,4 @@ Fluxos de automação para integração entre sistemas e redução de tarefas ma
 
 ## 📫 Contato
 
-- LinkedIn: *https://www.linkedin.com/m/profile/in/betholiveira*
+- LinkedIn: *linkedin.com/in/betholiveira*
