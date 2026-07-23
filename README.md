@@ -1,4 +1,4 @@
-![https://github.com/bethanalytics/bethanalytics/blob/main/1784772947213~2.png]
+![Banner](https://github.com/bethanalytics/bethanalytics/blob/main/1784772947213~2.png)
 
 
 # Olá! Eu sou a Beth 👋
