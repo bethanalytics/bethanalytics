@@ -10,8 +10,8 @@ Assistente Administrativa com experiência em logística, automação de process
 - Git e GitHub
 - Lovable
 - n8n
-- SQL *Em aprendizado*
-- Python *Em aprendizado*
+- SQL | Estudando
+- Python | Estudando
 
 ## 📌 Projetos
 
