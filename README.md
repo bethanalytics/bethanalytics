@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá! Eu sou a Beth 👋
 
-<!--
-**bethanalytics/bethanalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistente Administrativa com experiência em logística, automação de processos e análise de dados. Atualmente estou ampliando meus conhecimentos em Ciência de Dados, IA Generativa e desenvolvimento de soluções para aumentar a produtividade.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Excel Avançado
+- Power Query
+- IA Generativa
+- Git e GitHub
+- Lovable
+- n8n
+- SQL *Em aprendizado*
+- Python *Em aprendizado*
+
+## 📌 Projetos
+
+### 🤖 Clara AI
+Assistente virtual criada para apoiar análises de dados, organização de informações e automação de processos, utilizando conceitos de IA Generativa e engenharia de prompts.
+
+### 💼 Job Match AI
+Protótipo de plataforma para conectar candidatos a vagas, com foco em compatibilidade de perfil e otimização do processo seletivo.
+
+### 📄 Gerador de Currículos ATS
+Ferramenta para criar currículos otimizados para sistemas de rastreamento de candidatos (ATS), facilitando a adaptação às vagas.
+
+### 📊 Dashboards e Análises
+Coleção de dashboards e estudos desenvolvidos com Excel e Power Query para análise de indicadores e apoio à tomada de decisão.
+
+### 🔄 Automações com n8n
+Fluxos de automação para integração entre sistemas e redução de tarefas manuais.
+
+## 🌱 Atualmente estudando
+
+- Ciência de Dados
+- SQL
+- Python
+- Inteligência Artificial
+- Desenvolvimento de aplicações
+
+## 📫 Contato
+
+- LinkedIn: *https://www.linkedin.com/m/profile/in/betholiveira*
