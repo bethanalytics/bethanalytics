@@ -1,3 +1,6 @@
+![https://github.com/bethanalytics/bethanalytics/blob/main/1784772947213~2.png]
+
+
 # Olá! Eu sou a Beth 👋
 
 Assistente Administrativa com experiência em logística, automação de processos e análise de dados. Atualmente estou ampliando meus conhecimentos em Ciência de Dados, IA Generativa e desenvolvimento de soluções para aumentar a produtividade.
